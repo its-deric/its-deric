@@ -1,4 +1,5 @@
 👋 Welcome to My GitHub Profile!
+
 I’m Deric, an aspiring Cybersecurity Professional with a strong passion for penetration testing, ethical hacking, and SOC (Security Operations Center) analysis. Currently, I’m seeking my first opportunity in the cybersecurity industry, focusing on a role as a SOC Analyst while advancing my skills towards becoming a Penetration Tester.
 
 👨‍💻 About Me
