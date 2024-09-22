@@ -3,15 +3,19 @@
 I’m Deric, an aspiring Cybersecurity Professional with a strong passion for penetration testing, ethical hacking, and SOC (Security Operations Center) analysis. Currently, I’m seeking my first opportunity in the cybersecurity industry, focusing on a role as a SOC Analyst while advancing my skills towards becoming a Penetration Tester.
 
 👨‍💻 About Me
+
 📜 Certifications: CompTIA Security+
+
 🕵️‍♂️ Learning: I’m currently diving deep into:
 SIEM tools (Splunk, QRadar, etc.)
 Kali Linux, Metasploit, and Burp Suite for penetration testing
 Threat hunting and malware analysis
 Wireshark 
+
 💡 Projects: I enjoy working on hands-on labs in platforms like TryHackMe, Hack The Box, and building personal projects that explore different aspects of cybersecurity.
 
 🔓 Showcasing My Projects
+
 I’ll be using this GitHub to showcase the projects I’m working on that reflect my interests and skills in cybersecurity. Expect to see:
 Vulnerability assessments of web apps and networks.
 Incident response scenarios using SIEM tools.
