@@ -27,7 +27,7 @@ These projects are not only learning opportunities for me, but also a demonstrat
 I am actively seeking opportunities to break into the cybersecurity field, starting as a SOC Analyst. My goal is to contribute to an organisation’s security posture, learn from industry experts, and develop into a skilled penetration tester.
 
 📫 How to Reach Me
-📧 Dericmba79@gmail.com
+📧 U.dericmba@gmail.com
 🔗 LinkedIn Profile linkedin.com/in/deric-mba
 Let’s connect if you’re looking for passionate talent in the cybersecurity field, or if you’d like to collaborate on projects!
 
